@@ -6,9 +6,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-<h1 align="center">
+<h1 align="Start">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> 
-  Men Sizning_Ismingiz
+  Normurodov Komiljon
 </h1>
 
 <h3 align="center">🎯 Muammolarni Yechadigan Android Dasturchi | Kotlin Enthusiast | Clean Architecture Advocate</h3>
