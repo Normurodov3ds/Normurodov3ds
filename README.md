@@ -11,8 +11,6 @@
   Normurodov Komiljon
 </h1>
 
-<h3 align="center">🎯 Muammolarni Yechadigan Android Dasturchi | Kotlin Enthusiast | Clean Architecture Advocate</h3>
-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
