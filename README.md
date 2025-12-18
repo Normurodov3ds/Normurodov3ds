@@ -55,7 +55,7 @@ val androidDeveloper = Developer(
 
 ## 🎨 Tech Stack
 
-<div align="center">
+<div align="Start">
 
 ### 💻 Asosiy Texnologiyalar
 
