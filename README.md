@@ -58,8 +58,6 @@ val androidDeveloper = Developer(
 ## 💻 Tech Stack
 
 <div align="center">
-
-<div align="Start">
 ### Asosiy Texnologiyalar
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -74,7 +72,7 @@ val androidDeveloper = Developer(
 ![MVVM](https://img.shields.io/badge/MVVM-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00ADD8?style=for-the-badge&logo=architecture&logoColor=white)
 ![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
-</div> yaxshiroq yoz toliqroq kengroq
+</div>
 
 <p align="center">
   <img src="https://via.placeholder.com/450x300/667eea/ffffff?text=HealthTracker+App" width="100%" alt="HealthTracker"/>
