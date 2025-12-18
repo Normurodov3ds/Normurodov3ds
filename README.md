@@ -57,28 +57,20 @@ val androidDeveloper = Developer(
 
 <div align="Start">
 
-### 💻 Asosiy Texnologiyalar
-
+### Asosiy Texnologiyalar
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-
-### 🛠️ Kutubxonalar va Toollar
-
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-FF6F00?style=for-the-badge&logo=dagger&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-### 🎯 Arxitektura va Patterns
-
 ![MVVM](https://img.shields.io/badge/MVVM-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00ADD8?style=for-the-badge&logo=architecture&logoColor=white)
 ![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
